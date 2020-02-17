@@ -1,0 +1,27 @@
+body{
+	background-color: black;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size: cover;
+}
+h1{
+	color:white;
+	text-align: center;
+	text-transform: uppercase;
+}
+.square{
+	background-color: blue;
+	margin:1.6%;
+	width: 30%;
+	padding-bottom: 30%;
+	float:left;
+	border-radius: 25%;
+}
+.container{
+	max-width: 60%;
+	margin:auto;
+}
+#newcolor{
+	color:red;
+	background-color: blue;
+}
